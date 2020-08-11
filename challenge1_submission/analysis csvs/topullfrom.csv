@@ -1,0 +1,413 @@
+Job Code,Aircraft,Transaction Code,Malfunction Code,Action Taken Code,Description of Problem,Correction of Problem,Received Date,Completion Date
+2CB6FF1AB8174460,5,11,374,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-06-23,6/24/15
+2CB6FF8AB8174469,5,11,70,B,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-23,6/24/15
+2CB6LJ5AB8212538,5,47,,C,Perform a wiring inspection,Completed the inspection,2015-07-31,8/1/15
+2CB6LJ9AB8212542,5,47,,C,Perform a wiring inspection,Completed the inspection,2015-07-31,8/1/15
+2CB6LMLAB8213011,5,11,799,A,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-08-01,8/4/15
+2CB6MROAB8220034,5,11,W17,C,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2015-08-08,8/9/15
+2CB6OGKAB8231442,5,11,374,C,Wiring issue found on the aircraft,Repaired the wire,2015-08-20,8/20/15
+2CBA3RYAB8014061,5,11,117,A,Wiring issue found on the aircraft,Repaired the wire,2019-01-14,1/15/19
+2CBA42MAB8015288,5,11,0,N,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-15,1/16/19
+2CBA43SAB8015325,5,11,0,N,Wiring issue found on the aircraft,Repaired the wire,2019-01-15,1/16/19
+2CBA443AB8015335,5,11,0,N,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-15,1/16/19
+2CBA45WAB8015400,5,11,105,B,Wiring issue found on the aircraft,Repaired the wire,2019-01-15,1/16/19
+2CBA45YAB8015402,5,11,C03,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2019-01-15,1/16/19
+3BFMLPIAA9016251,5,41,,C,Perform a wiring inspection,Completed the inspection,2019-01-16,3/21/19
+3BFMLQ0AA9016269,5,11,127,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-16,2/11/19
+3BFMLQBAA9016280,5,12,70,B,Wiring issue found on the aircraft,Repaired the wire,2019-01-16,7/12/19
+3BFMLQIAA9016287,5,11,C01,Z,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-16,2/5/19
+3BFMNGMAA9029408,5,11,W14,C,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-01-29,1/29/19
+3BFMNVEAA9031101,5,11,C01,Z,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-31,1/31/19
+3BFMNVIAA9031105,5,11,C01,Z,Wiring issue found on the aircraft,Repaired the wire,2019-01-31,1/31/19
+3BFMOPZAA9037542,5,11,W05,C,System or component worn or broken,Worked on and repaired component/system,2019-02-06,2/6/19
+3BFMP9IAA9044345,5,11,0,0,Perform a wiring inspection,Completed the inspection,2019-02-13,2/13/19
+3BFI7P1AA9154587,7,23,780,R,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-03,6/5/15
+3BFI9PPAA9174412,7,11,282,A,Wiring issue found on the aircraft,Repaired the wire,2015-06-23,6/26/15
+3BFI9SEAA9175487,7,12,W47,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2015-06-24,6/30/15
+3BFIAIBAA9181155,7,11,127,A,Wiring issue found on the aircraft,Repaired the wire,2015-06-30,6/30/15
+3BFIB1OAA9189565,7,11,719,B,Wiring issue found on the aircraft,Repaired the wire,2015-07-08,7/8/15
+3BFIB2LAA9190578,7,11,W08,C,Code: NVBMJD was set.,Observed the area and attempted to repair it,2015-07-09,7/21/15
+3BFIBC8AA9191103,7,11,W03,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2015-07-10,7/21/15
+3BFIBOPAA9191103,7,11,W46,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2015-07-15,7/20/15
+3BFIC02AA9201434,7,11,W46,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-20,7/20/15
+3BFIC0QAA9201467,7,11,0,0,Wiring issue found on the aircraft,Repaired the wire,2015-07-20,7/22/15
+3BFIC11AA9201471,7,12,W46,B,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-07-20,7/27/15
+3BFIC69AA9203535,7,11,W17,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2015-07-22,7/31/15
+3BFICZJAA9210335,7,47,,C,Perform a wiring inspection,Completed the inspection,2015-07-29,8/3/15
+3BFICZQAA9210342,7,47,,C,Perform a wiring inspection,Completed the inspection,2015-07-29,8/3/15
+3BFIEWEAA9230071,7,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-18,8/19/15
+3BFML4GAA9014312,7,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-14,1/23/19
+3BFMLYZAA9017458,7,11,W52,C,Code: UXUXMZ was set.,Worked on system component; repair may or may not have been successful,2019-01-17,1/18/19
+3BFMNFDAA9028382,7,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-28,2/14/19
+3BFMNFEAA9028383,7,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-28,2/7/19
+3BFMP9KAA9044347,7,11,0,0,Perform a wiring inspection,Completed the inspection,2019-02-13,2/13/19
+3BFMPDEAA9045417,7,11,W50,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2019-02-14,2/18/19
+3BFMPM4AA9050536,7,11,956,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-19,2/19/19
+3BFMQ5TAA9057A02,7,11,W24,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2019-02-26,2/26/19
+3BFI8E9AA9162416,8,11,W28,C,Perform verification of component or system,Completed the component or system test,2015-06-11,7/10/15
+3BFI8HGAA9162433,8,11,W49,C,Perform verification of component or system,Completed the component or system test,2015-06-11,6/15/15
+3BFI8ZMAA9167095,8,12,W17,B,System or component worn or broken,Worked on and repaired component/system,2015-06-16,6/23/15
+3BFIA3SAA9177032,8,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2015-06-26,6/26/15
+3BFICZSAA9210344,8,47,,C,Perform a wiring inspection,Completed the inspection,2015-07-29,7/30/15
+3BFICZTAA9210345,8,47,,C,Perform a wiring inspection,Completed the inspection,2015-07-29,7/30/15
+3BFID9DAA9212486,8,11,70,C,A wire or system connector requires attention,Removed and replaced system or component,2015-07-31,8/11/15
+3BFIEI5AA9225470,8,12,W58,B,Bad Battery,Repaired or replaced battery,2015-08-13,8/21/15
+3BFJEAQAA9214236,8,11,W49,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2016-08-01,8/2/16
+3BFJFMKAA9224416,8,11,W48,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2016-08-11,8/11/16
+3BFJGGSAA9231188,8,11,W08,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2016-08-18,8/18/16
+3BFML6CAA9014375,8,11,W05,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-14,2/18/19
+3BFML6NAA9014394,8,12,20,B,Wiring issue found on the aircraft,Repaired the wire,2019-01-14,2/19/19
+3BFMONTAA9036506,8,11,W24,C,Aircraft weapon configuration change requested,Aircraft configuration change completed,2019-02-05,2/13/19
+3BFMP9LAA9044348,8,11,0,0,Perform a wiring inspection,Completed the inspection,2019-02-13,2/13/19
+3BFMP9XAA9044358,8,11,W04,C,Harness issue found on the aircraft,Repaired the harness,2019-02-13,2/14/19
+3BFMPSAAA9051044,8,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-20,2/21/19
+3BFI7LNAA9153528,9,11,20,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-06-02,6/3/15
+3BFI85DAA9160324,9,11,W48,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2015-06-09,6/12/15
+3BFIC5HAA9202527,9,11,127,C,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-07-21,7/22/15
+3BFICFMAA9204063,9,23,780,R,A wire or system connector requires attention,Removed and replaced system or component,2015-07-23,7/28/15
+3BFICZMAA9210338,9,47,,C,Perform a wiring inspection,Completed the inspection,2015-07-29,7/30/15
+3BFICZNAA9210339,9,47,,C,Perform a wiring inspection,Completed the inspection,2015-07-29,7/30/15
+3BFIDSKAA9217054,9,11,282,C,Wiring issue found on the aircraft,Repaired the wire,2015-08-05,8/6/15
+3BFJH8CAA9236559,9,11,127,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-23,8/26/16
+3BFJHBNAA9236595,9,23,381,C,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2016-08-23,9/2/16
+3BFMJR5AA9004380,9,11,0,0,Perform a wiring inspection,Completed the inspection,2019-01-04,1/4/19
+3BFMJR6AA9004380,9,11,0,0,Perform a wiring inspection,Completed the inspection,2019-01-04,1/4/19
+3BFMJR7AA9004380,9,11,0,0,Perform a wiring inspection,Completed the inspection,2019-01-04,1/4/19
+3BFMJRBAA9004383,9,11,0,0,Perform a wiring inspection,Completed the inspection,2019-01-04,1/4/19
+3BFMKA8AA9008239,9,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-08,1/15/19
+3BFMKAJAA9008250,9,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-08,1/10/19
+3BFMKAKAA9008251,9,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-08,1/10/19
+3BFMKAMAA9008253,9,11,20,C,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-01-08,1/14/19
+3BFMKANAA9008254,9,11,20,C,A wire or system connector requires attention,Removed and replaced system or component,2019-01-08,1/16/19
+3BFMKEOAA9009370,9,11,W05,C,System or component worn or broken,Worked on and repaired component/system,2019-01-09,1/15/19
+3BFMKG3AA9009410,9,11,956,A,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-01-09,1/10/19
+3BFMKG4AA9009411,9,11,429,C,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-01-09,1/17/19
+3BFMKGEAA9009419,9,11,20,C,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-01-09,1/14/19
+3BFMKK0AA9008A04,9,23,70,R,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2019-01-10,1/17/19
+3BFMKOWAA9010557,9,12,20,B,Wiring issue found on the aircraft,Repaired the wire,2019-01-10,1/16/19
+3BFMKPUAA9010581,9,12,70,B,Wiring issue found on the aircraft,Repaired the wire,2019-01-10,1/17/19
+3BFMKREAA9010010,9,11,C01,Z,Wiring issue found on the aircraft,Repaired the wire,2019-01-10,1/15/19
+3BFMKS0AA9010070,9,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-10,1/16/19
+3BFMKS9AA9010021,9,11,0,0,Wiring issue found on the aircraft,Repaired the wire,2019-01-10,1/11/19
+3BFMKSAAA9010021,9,11,0,0,Wiring issue found on the aircraft,Repaired the wire,2019-01-10,1/11/19
+3BFMKSBAA9010021,9,11,0,0,Wiring issue found on the aircraft,Repaired the wire,2019-01-10,1/14/19
+3BFMKSCAA9010072,9,11,C31,Z,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-10,1/15/19
+3BFMKZKAA9011214,9,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-11,1/16/19
+3BFMKZLAA9011214,9,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-11,1/14/19
+3BFMKZMAA9011214,9,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-11,1/17/19
+3BFML9MAA9014483,9,11,0,N,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-14,1/31/19
+3BFMLJYAA9015131,9,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-15,1/16/19
+3BFMLK0AA9015134,9,11,C01,Z,Wiring issue found on the aircraft,Repaired the wire,2019-01-15,1/16/19
+3BFMLM3AA9016207,9,12,780,B,A wire or system connector requires attention,Removed and replaced system or component,2019-01-15,1/23/19
+3BFMLP4AA9016233,9,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-16,1/17/19
+3BFMMH6AA9022208,9,11,0,0,Perform a wiring inspection,Completed the inspection,2019-01-22,1/22/19
+3BFMMH7AA9022208,9,11,0,0,Perform a wiring inspection,Completed the inspection,2019-01-22,1/22/19
+3BFMMM6AA9023291,9,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2019-01-23,1/23/19
+3BFMNHJAA9029530,9,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-29,1/30/19
+3BFMNHKAA9029444,9,11,780,B,Wiring issue found on the aircraft,Repaired the wire,2019-01-29,1/29/19
+3BFMNHLAA9029445,9,11,0,N,Wiring issue found on the aircraft,Repaired the wire,2019-01-29,1/31/19
+3BFMNHMAA9029531,9,11,105,B,Wiring issue found on the aircraft,Repaired the wire,2019-01-29,1/30/19
+3BFMNHWAA9029488,9,11,C01,Z,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-29,1/29/19
+3BFMNIWAA9029535,9,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-29,1/30/19
+3BFMNJGAA9029473,9,11,0,N,Wiring issue found on the aircraft,Repaired the wire,2019-01-29,1/31/19
+3BFMNJMAA9029470,9,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-29,1/30/19
+3BFMNJPAA9029468,9,11,0,N,Wiring issue found on the aircraft,Repaired the wire,2019-01-29,1/31/19
+3BFMNJQAA9029467,9,11,0,N,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-29,1/31/19
+36MZK9KAA8031393,9,11,0,N,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-01-31,2/28/19
+36MZKA0AA8031409,9,11,0,N,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-31,2/28/19
+36MZKAOAA8031436,9,11,117,A,Wiring issue found on the aircraft,Repaired the wire,2019-01-31,2/4/19
+36MZKBLAA8031469,9,11,0,N,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-31,2/28/19
+36MZKX5AA8043645,9,11,W62,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2019-02-12,2/15/19
+36MZL13AA8044268,9,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2019-02-13,2/15/19
+36MZM3WAA8050365,9,11,W52,C,Code: XUJDZJ was set.,Repaired the wire,2019-02-19,2/19/19
+36MZN9NAA8058033,9,11,W53,C,Code: XUQGQG was set.,Removed and replaced system or component,2019-02-27,2/27/19
+36MZNGQAA8059116,9,12,70,B,A wire or system connector requires attention,Removed and replaced system or component,2019-02-28,6/5/19
+36MZNH4AA8059130,9,11,105,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-28,5/3/19
+36MVJOKAA8154211,10,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2015-06-03,6/10/15
+36MVKIEAA8158045,10,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2015-06-07,6/7/15
+36MVO0IAA8179128,10,11,W34,C,Wiring issue found on the aircraft,Removed and replaced system or component,2015-06-28,6/28/15
+36MVOQSAA8183547,10,12,W48,B,Wiring issue found on the aircraft,Repaired the wire,2015-07-02,7/30/15
+36MVTKTAA8212293,10,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2015-07-31,8/11/15
+36MVTTNAA8213417,10,11,105,C,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-08-01,8/1/15
+36MVVYFAA8225314,10,11,425,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-08-13,8/14/15
+36MVW5EAA8227406,10,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2015-08-15,10/13/15
+36MVXR5AA8236112,10,11,956,A,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-08-24,8/26/15
+36MWRM4AA8223308,10,11,799,A,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2016-08-10,8/10/16
+36MZLFLAA8045458,10,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-14,2/25/19
+36MZLG2AA8045473,10,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-14,2/25/19
+36MZLG3AA8045474,10,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-14,2/25/19
+36MZLO2AA8045577,10,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-14,2/22/19
+36MZLO3AA8045578,10,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-14,2/22/19
+36MZLO5AA8045579,10,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2019-02-14,2/25/19
+36MZLOGAA8045591,10,11,20,B,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-14,2/25/19
+36MZLOHAA8045592,10,11,20,B,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-14,2/25/19
+36MZLPJAA8045025,10,11,127,B,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-02-14,2/19/19
+36MZLPMAA8045028,10,11,429,B,Wiring issue found on the aircraft,Repaired the wire,2019-02-14,2/21/19
+36MZLPOAA8045030,10,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2019-02-14,2/19/19
+36MZLQ3AA8045038,10,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-14,2/20/19
+36MZLQBAA8045045,10,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-14,2/21/19
+36MZLQKAA8045051,10,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-14,2/21/19
+36MZLQQAA8045057,10,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-14,2/21/19
+36MZLRIAA8046085,10,11,70,B,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-15,2/21/19
+36MZLRNAA8046090,10,11,105,B,Wiring issue found on the aircraft,Repaired the wire,2019-02-15,2/21/19
+36MZLRQAA8046093,10,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-15,2/21/19
+36MZLUSAA8046166,10,11,127,Q,Wiring issue found on the aircraft,Repaired the wire,2019-02-15,2/25/19
+36MZLVNAA8046184,10,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-15,2/21/19
+36MZLVYAA8046195,10,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2019-02-15,2/27/19
+36MZMERAA8052570,10,11,117,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-21,2/25/19
+36MZMJIAA8052091,10,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2019-02-21,2/22/19
+3LCEK5HPD8210561,11,47,,C,Perform a wiring inspection,Completed the inspection,2015-07-29,9/10/15
+3LCEKQ6PD8214351,11,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-02,9/10/15
+3LCFRPWPD8215494,11,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-02,8/23/16
+3LCFS0BPD8216060,11,12,20,B,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2016-08-03,8/23/16
+3LCFS0QPD8216085,11,11,780,A,Wiring issue found on the aircraft,Repaired the wire,2016-08-03,8/17/16
+3LCFS2LPD8222454,11,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-03,8/24/16
+3LCFS2WPD8222465,11,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-03,8/24/16
+3LCFS68PD8216135,11,12,20,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2016-08-03,8/24/16
+3LCFS6EPD8216140,11,11,246,B,Wiring issue found on the aircraft,Repaired the wire,2016-08-03,8/24/16
+3LCFS6JPD8216145,11,11,170,Z,Wiring issue found on the aircraft,Repaired the wire,2016-08-03,8/26/16
+3LCFSHPPD8222363,11,11,799,A,Wiring issue found on the aircraft,Repaired the wire,2016-08-09,8/23/16
+3LCFSIIPD8222390,11,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-09,8/24/16
+3LCFSX5PD8224196,11,11,846,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-11,8/23/16
+3LCFSY1PD8224227,11,11,105,B,Wiring issue found on the aircraft,Repaired the wire,2016-08-11,8/26/16
+3LCFSY2PD8224228,11,11,W33,R,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2016-08-11,8/26/16
+3LCFSY5PD8224231,11,11,105,B,Wiring issue found on the aircraft,Repaired the wire,2016-08-11,8/17/16
+3LCFSYLPD8224248,11,11,127,B,Wiring issue found on the aircraft,Repaired the wire,2016-08-11,8/17/16
+3LCFSYXPD8224260,11,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-11,8/23/16
+3PD03V6PE7169104,14,12,W57,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2015-06-18,6/19/15
+3PD03ZVPE7170156,14,11,W48,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2015-06-19,6/22/15
+3PD0469PE7173256,14,11,W48,C,Perform system or component checks ,Completed the component or system test,2015-06-22,7/3/15
+3PD065IPE7190564,14,11,282,C,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-07-09,11/10/15
+3PD097HPE7224103,14,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-12,8/26/15
+3PD097IPE7224104,14,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-12,8/26/15
+3UF0M31PA3218030,14,11,780,C,A wire or system connector requires attention,Observed the area and attempted to repair it,2016-08-05,8/7/16
+3UF0N64PA3229121,14,12,W51,B,System or component worn or broken,Removed and Replaced the system or component,2016-08-16,9/6/16
+3UF0N65PA3229122,14,12,W51,B,System or component worn or broken,Removed and Replaced the system or component,2016-08-16,9/9/16
+3UF0NFIPA3230254,14,12,W51,B,System or component worn or broken,Removed and Replaced the system or component,2016-08-17,9/6/16
+3UF3R5WPA3362347,14,11,956,A,Wiring issue found on the aircraft,Repaired the wire,2019-01-02,1/3/19
+3UF3RCAPA3004503,14,11,W17,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2019-01-04,1/7/19
+3JURR43PA4355346,14,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2019-01-25,1/25/19
+3JURRJ9PA4355355,14,11,956,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-01-29,1/30/19
+3JURTNVPA4355502,14,11,0,0,Perform a wiring inspection,Completed the inspection,2019-02-20,2/20/19
+3EA3PGRFA7195A38,20,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-20,7/23/15
+3EA3QANFA7195A86,20,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2015-07-29,7/29/15
+3EA3QAOFA7195A87,20,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2015-07-29,7/29/15
+3EA3QQKFA7215109,20,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/14/15
+3EA3R7LFA7195A92,20,11,70,B,A wire or system connector requires attention,Removed and replaced system or component,2015-08-07,8/11/15
+3EA3RP5FA7224339,20,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-12,8/12/15
+3EA3S7OFA7230069,20,11,0,0,Perform a wiring inspection,Completed the inspection,2015-08-18,8/19/15
+3EA3SGVFA7195AA6,20,11,255,C,Wiring issue found on the aircraft,Repaired the wire,2015-08-21,8/29/15
+3EA3SKMFA7195AA8,20,11,615,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-08-24,8/27/15
+3EA3T8NFA7195AAH,20,11,20,C,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-08-28,8/30/15
+3EA6HPBFA7006305,20,12,70,B,A wire or system connector requires attention,Removed and replaced system or component,2019-01-06,1/7/19
+3EA6IHVFA7015022,20,11,W52,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-16,1/16/19
+3NT0S3XFA3159083,21,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2015-06-08,6/10/15
+3NT0SNYFA3174310,21,11,180,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-06-23,6/24/15
+3NT0T0UFA3176390,21,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2015-06-25,6/26/15
+3NT0T1XFA3174309,21,11,374,C,Wiring issue found on the aircraft,Repaired the wire,2015-06-26,6/28/15
+3NT0TDOFA3181548,21,11,W62,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-01,7/1/15
+3NT0TE6FA3182020,21,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-01,7/15/15
+3NT0TGIFA3183075,21,11,20,N,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-07-02,7/20/15
+3NT0UMHFA3183075,21,23,20,R,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-07-20,8/12/15
+3NT0UMZFA3201A01,21,11,W04,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-20,7/31/15
+3NT0UN0FA3201A02,21,11,W04,C,"Cable, Wire, or Harness is Chaffed",Observed the area and attempted to repair it,2015-07-20,7/31/15
+3NT0UN1FA3201A03,21,11,W03,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-20,7/31/15
+3NT0UPRFA3183075,21,11,799,A,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-07-21,8/13/15
+3NT0US9FA3201A06,21,11,W04,C,"Cable, Wire, or Harness is Chaffed",Observed the area and attempted to repair it,2015-07-21,7/24/15
+3NT0USBFA3201A08,21,11,W04,C,System or component worn or broken,Worked on and repaired component/system,2015-07-21,7/24/15
+3NT0USCFA3201A09,21,11,W31,C,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-07-21,7/24/15
+3NT0USDFA3201A10,21,12,W17,B,System or component worn or broken,Removed and Replaced the system or component,2015-07-21,7/30/15
+3NT0VF3FA3183075,21,11,W59,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2015-07-27,7/28/15
+3NT0VVTFA3215278,21,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/5/15
+3NT0VWEFA3215299,21,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/5/15
+3NT1JA3FA3224062,21,11,956,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-11,8/12/16
+3NT1KFAFA3236599,21,11,190,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-23,8/23/16
+3NT1KFKFA3236010,21,11,190,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-23,8/24/16
+3NT1KFLFA3236011,21,11,190,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-23,8/24/16
+3NT1KFNFA3236014,21,11,190,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-23,8/24/16
+3NT1KFQFA3236017,21,11,190,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-23,8/24/16
+3NT1KGOFA3236031,21,11,190,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-23,8/23/16
+3EA3QKVFA7216233,22,11,956,B,Wiring issue found on the aircraft,Repaired the wire,2015-07-31,8/14/15
+3EA3QLVFA7216269,22,11,W30,B,Harness issue found on the aircraft,Repaired the harness,2015-07-31,12/17/15
+3EA3QQTFA7215118,22,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/4/15
+3EA3QQUFA7215119,22,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/4/15
+3NT1JHHFA3228169,22,11,W60,C,System or component failed ,Worked on system component; repair may or may not have been successful,2016-08-15,9/6/16
+3NT1KQHFA3242184,22,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2016-08-29,8/29/16
+3NT1KQLFA3242187,22,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2016-08-29,8/29/16
+3NT1KQMFA3242188,22,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2016-08-29,8/29/16
+3NT1KQNFA3242189,22,11,20,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2016-08-29,8/29/16
+3NT1KT6FA3242230,22,12,W44,B,System or component worn or broken,Removed and Replaced the system or component,2016-08-29,9/6/16
+3NT1KUUFA3243272,22,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-30,9/5/16
+3NT1KUWFA3243274,22,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-30,8/30/16
+3NT1KVHFA3243299,22,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-30,8/30/16
+3NT1KVOFA3243308,22,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-30,8/30/16
+3NT3HIPFA3029416,22,12,70,B,A wire or system connector requires attention,Removed and replaced system or component,2019-01-29,1/31/19
+3NT3ICPFA3031534,22,11,W52,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2019-02-07,2/7/19
+3NT3JQ1FA3056107,22,12,190,B,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-02-25,2/26/19
+3EA3N2IFA7166143,24,11,799,A,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-15,6/16/15
+3EA3OS8FA7120195,24,11,W57,Y,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2015-07-08,7/9/15
+3EA3Q2GFA7208408,24,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-27,7/27/15
+3EA3Q2NFA7208415,24,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2015-07-27,7/28/15
+3EA3QE2FA7211537,24,11,W05,B,Wiring issue found on the aircraft,Repaired the wire,2015-07-30,8/14/15
+3EA3QQRFA7215116,24,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/4/15
+3EA3QQSFA7215117,24,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/4/15
+3EA3QX0FA7217358,24,11,W51,B,System or component worn or broken,Removed and Replaced the system or component,2015-08-05,8/13/15
+3EA3QZBFA7217390,24,11,0,N,Wiring issue found on the aircraft,Repaired the wire,2015-08-05,9/23/15
+3EA3QZOFA7217403,24,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-05,8/13/15
+3EA3QZPFA7217404,24,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2015-08-05,8/6/15
+3EA3QZYFA7217413,24,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-05,8/7/15
+3EA3QZZFA7217414,24,11,0,N,Wiring issue found on the aircraft,Repaired the wire,2015-08-05,9/23/15
+3EA3R0QFA7217441,24,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-05,8/13/15
+3EA3R0TFA7217444,24,11,0,N,Wiring issue found on the aircraft,Repaired the wire,2015-08-05,9/23/15
+3EA3R4MFA7218494,24,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-06,8/12/15
+3EA3RP2FA7224340,24,11,70,B,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-08-12,8/12/15
+3EA3RP3FA7224341,24,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-12,8/12/15
+3EA3SPPFA7237361,24,11,135,B,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-08-25,8/25/15
+3KKEKGYPJ4160472,28,21,780,P,A wire or system connector requires attention,Removed and replaced system or component,2015-06-09,6/9/15
+3KKGN5XPJ4164542,28,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2015-06-13,6/14/17
+3KKEMNBPJ4181008,28,11,799,A,Wiring issue found on the aircraft,Repaired the wire,2015-06-30,6/30/15
+3KKEN48PJ4184327,28,23,W48,R,System or component worn or broken,Removed and Replaced the system or component,2015-07-03,7/3/15
+3KKENSWPJ4191031,28,23,70,R,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-07-10,7/10/15
+3KKFRE9PJ4215037,28,12,127,B,Wiring issue found on the aircraft,Repaired the wire,2016-08-02,8/2/16
+3KKFRL4PJ4216163,28,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-03,1/19/17
+3KKFRL7PJ4216171,28,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-03,1/19/17
+3KKFRLGPJ4216174,28,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-03,1/19/17
+3KKFRLXPJ4216192,28,11,799,A,A wire or system connector requires attention,Observed the area and attempted to repair it,2016-08-03,4/4/17
+3KKFROCPJ4217263,28,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2016-08-04,2/15/17
+3KKFRQYPJ4217343,28,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2016-08-04,8/9/16
+3KKFRQZPJ4217344,28,12,70,B,A wire or system connector requires attention,Removed and replaced system or component,2016-08-04,1/20/17
+3KKFRS9PJ4217386,28,11,127,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-04,2/1/17
+3KKFSY8PJ4231558,28,12,W47,B,System or component failed ,Removed and Replaced failed part or assembly,2016-08-18,2/8/17
+3KKIMEEPJ4031419,28,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2019-01-31,2/1/19
+3KKIMFAPJ4031495,28,11,W21,B,Wiring issue found on the aircraft,Repaired the wire,2019-01-31,2/7/19
+3KKIMFKPJ4031498,28,11,W15,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2019-01-31,2/13/19
+3KKIMIHPJ4031563,28,11,W13,Z,"Cable, Wire, or Harness is Chaffed",Observed the area and attempted to repair it,2019-01-31,2/20/19
+3KKIMP3PJ4032194,28,11,W12,Z,Bare Metal located on flight control surface,"Sanded, primed, and painted the bare area",2019-02-01,2/15/19
+3KKIMTLPJ4032344,28,12,W33,C,System or component worn or broken,Worked on and repaired component/system,2019-02-01,5/28/19
+3KKIN4XPJ4036083,28,23,W62,R,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2019-02-05,2/25/19
+3KKING3PJ4037351,28,11,C01,Z,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-06,2/7/19
+3KKININPJ4037442,28,11,W05,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-06,2/22/19
+3LQE762PF7161322,29,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/11/15
+3LQE763PF7161322,29,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/10/15
+3LQE764PF7161322,29,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/11/15
+3LQE77TPF7161379,29,11,93,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-06-10,6/25/15
+3LQE77YPF7161381,29,11,93,B,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-10,6/11/15
+3LQE788PF7161382,29,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/11/15
+3LQE789PF7161382,29,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/10/15
+3LQE78APF7161382,29,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/11/15
+3LQE79APF7161399,29,11,93,B,A wire or system connector requires attention,Removed and replaced system or component,2015-06-10,7/9/15
+3LQE79LPF7161400,29,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-10,6/11/15
+3LQE79MPF7161400,29,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-10,6/10/15
+3LQE79NPF7161400,29,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-10,6/11/15
+3LQE97EPF7180012,29,11,429,C,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-06-29,7/9/15
+3LQN5VHPF7036479,29,11,780,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-05,2/6/19
+3LQN5ZTPF7037552,29,12,20,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2019-02-06,2/23/19
+3LQN6VIPF7044565,29,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-13,2/13/19
+3LQN7I1PF7046517,29,12,W01,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-15,2/26/19
+3LQN7JDPF7047591,29,11,W04,C,"Cable, Wire, or Harness is Chaffed",Observed the area and attempted to repair it,2019-02-16,2/21/19
+3LQN7JFPF7047593,29,12,W04,B,Harness issue found on the aircraft,Repaired the harness,2019-02-16,2/21/19
+3LQN7JGPF7047594,29,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-16,2/19/19
+3LQN7N6PF7049051,29,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-18,2/27/19
+3LQN7VDPF7050302,29,11,W05,C,Harness issue found on the aircraft,Repaired the harness,2019-02-19,2/27/19
+3LQN7WMPF7050346,29,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2019-02-19,3/1/19
+3LQN7WPPF7050349,29,11,W49,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-19,2/23/19
+3LQN7Y5PF7050400,29,11,W24,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-19,2/23/19
+3LQE75WPF7161317,30,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/11/15
+3LQE75XPF7161317,30,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/10/15
+3LQE75YPF7161317,30,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/11/15
+3LQE78SPF7161393,30,11,105,B,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/11/15
+3LQE78ZPF7161395,30,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/11/15
+3LQE790PF7161395,30,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/10/15
+3LQE791PF7161395,30,11,0,0,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-10,6/11/15
+3LQE7A6PF7161414,30,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-10,6/11/15
+3LQE7A7PF7161414,30,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-10,6/10/15
+3LQE7A8PF7161414,30,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-10,6/11/15
+3LQE84FPF7167467,30,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-16,6/16/15
+3LQE84GPF7167468,30,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-16,6/16/15
+3LQE84HPF7167469,30,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-16,6/16/15
+3LQE84IPF7167470,30,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-16,6/16/15
+3LQE84KPF7167472,30,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-16,6/16/15
+3LQE84MPF7167474,30,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-16,6/16/15
+3LQE84NPF7167475,30,11,0,0,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-16,6/16/15
+3LQE97DPF7180014,30,11,425,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-06-29,7/17/15
+3LQEARXPF7191537,30,23,956,R,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-07-10,7/10/15
+3LQFGS8PF7214135,30,11,246,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-01,9/8/16
+3LQFGT2PF7214101,30,11,170,Z,Wiring issue found on the aircraft,Repaired the wire,2016-08-01,8/15/16
+3LQN758PF7045180,30,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-13,4/29/19
+3LQN7AIPF7045339,30,11,W01,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-14,2/15/19
+3LQN7AJPF7045344,30,11,W01,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-14,2/15/19
+3LQN7AKPF7045345,30,11,W53,C,System or Component is dirty,Cleaned the system or component,2019-02-14,2/15/19
+3LQN7OHPF7049092,30,11,780,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-18,5/13/19
+3LQN7PAPF7049113,30,11,93,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-18,2/23/19
+3LQN7ZPPF7050456,30,11,C01,Z,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-19,2/22/19
+3LQN80GPF7050475,30,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-19,2/21/19
+3LQN80RPF7050476,30,11,C01,Z,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-02-19,2/20/19
+3LQN80XPF7050478,30,11,C01,Z,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-02-19,2/20/19
+3LQN80ZPF7050480,30,11,W13,Z,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-02-19,2/20/19
+3LQN810PF7050481,30,11,W13,Z,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-02-19,2/20/19
+3LQN811PF7050482,30,11,W13,Z,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-02-19,2/20/19
+3LQN814PF7050484,30,11,W13,Z,System or component worn or broken,Removed and Replaced the system or component,2019-02-19,2/20/19
+3LQN815PF7050485,30,11,W13,Z,A wire or system connector requires attention,Observed the area and attempted to repair it,2019-02-19,2/20/19
+3LQN816PF7050486,30,11,W48,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-19,2/21/19
+3LQN82UPF7050538,30,11,W13,Z,Harness issue found on the aircraft,Repaired the harness,2019-02-19,2/21/19
+3LQN8DIPF7052145,30,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2019-02-21,2/21/19
+3LQN8ECPF7052169,30,11,W49,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-21,4/25/19
+3USXO4EFE8181147,41,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2015-06-30,9/8/15
+3USXPH4FE8209351,41,11,W57,C,Perform a wiring inspection,Completed the inspection,2015-07-28,7/30/15
+3USXPIBFE8210377,41,11,70,C,A wire or system connector requires attention,Removed and replaced system or component,2015-07-29,9/24/15
+3USXPIVFE8210380,41,11,W24,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-29,9/20/15
+3USXPIWFE8210378,41,11,W24,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-29,9/14/15
+3USXPIXFE8210381,41,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-29,8/3/15
+3USXPIYFE8210379,41,11,92,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-29,7/30/15
+3USXPQFFE8212449,41,47,,C,Perform a wiring inspection,Completed the inspection,2015-07-31,8/5/15
+3USXQ0TFE8217587,41,11,429,C,Wiring issue found on the aircraft,Repaired the wire,2015-08-05,9/8/15
+3USXQSCFE8239456,41,23,956,R,A wire or system connector requires attention,Removed and replaced system or component,2015-08-27,9/16/15
+3USYAMZFE8221474,41,11,W48,C,"A system, component, part, or surface on the aircraft required attention",Observed the area and attempted to repair it,2016-08-08,8/9/16
+3USYC1EFE8239250,41,12,W48,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2016-08-26,9/7/16
+3J38RSPAA7004291,41,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2019-01-04,2/18/19
+3J38RSRAA7004292,41,12,W62,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2019-01-04,2/18/19
+3J38XAWAA7049A09,41,11,105,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-22,2/27/19
+3J38Y4GAA7049A10,41,11,W21,C,Wiring issue found on the aircraft,Repaired the wire,2019-02-28,2/28/19
+3USXNG5FE8160203,42,11,105,B,Wiring issue found on the aircraft,Repaired the wire,2015-06-09,6/9/15
+3USXNGCFE8160207,42,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2015-06-09,6/9/15
+3USXOGNFE8190434,42,25,282,R,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-07-09,7/13/15
+3USXOGOFE8190435,42,11,381,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-07-09,7/13/15
+3USXOKMFE8190434,42,11,W03,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-10,7/12/15
+3USXP5TFE8202164,42,23,447,R,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-07-21,9/14/15
+3USXPIQFE8210374,42,11,105,B,Wiring issue found on the aircraft,Repaired the wire,2015-07-29,8/5/15
+3USXPIRFE8210375,42,11,70,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-07-29,9/15/15
+3USXPIUFE8210376,42,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2015-07-29,9/15/15
+3USXPU9FE8215498,42,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/5/15
+3USXQDEFE8230208,42,11,70,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-08-18,9/9/15
+3USXQEHFE8230242,42,11,117,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-18,8/21/15
+3USXQR7FE8238427,42,11,W49,C,Code: FVXUMQ was set.,Repaired the wire,2015-08-26,8/27/15
+3USXQT3FE8240463,42,11,255,C,Wiring issue found on the aircraft,Repaired the wire,2015-08-27,8/28/15
+3USYB5MFE8236189,42,23,956,R,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2016-08-23,8/26/16
+3USXNDOFE8160237,43,41,,C,Perform a wiring inspection,Completed the inspection,2015-06-05,8/25/15
+3USXNDYFE8160245,43,11,295,F,A wire or system connector requires attention,Observed the area and attempted to repair it,2015-06-05,7/10/15
+3USXNI2FE8161283,43,41,,C,Perform a wiring inspection,Completed the inspection,2015-06-10,7/23/15
+3USXNKPFE8162328,43,11,70,B,"Grounding issue found with a system, wire, or component",Removed and replaced system or component,2015-06-11,8/2/15
+3USXPA5FE8203A02,43,11,70,C,A wire or system connector requires attention,Removed and replaced system or component,2015-07-23,7/26/15
+3USXPU8FE8215497,43,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/5/15
+3USXQSYFE8239460,43,11,W50,C,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2015-08-27,9/21/15
+3USYC53FE8242285,43,12,W25,B,"A system, component, part, or surface on the aircraft required attention",Removed and replaced system or component,2016-08-29,11/2/16
+3EA6LQPFA7059032,43,11,956,R,"Grounding issue found with a system, wire, or component",Attempted to repair the grounding issue,2019-02-28,3/4/19
+3EA3NVCFA7176469,44,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2015-06-25,6/25/15
+3EA3QQPFA7215114,44,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/14/15
+3EA3QQQFA7215115,44,47,,C,Perform a wiring inspection,Completed the inspection,2015-08-03,8/14/15
+3EA3RCBFA7221005,44,11,0,0,Perform a wiring inspection,Completed the inspection,2015-08-09,8/10/15
+3EA3RE1FA7222052,44,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-10,8/10/15
+3EA3RE4FA7222055,44,11,70,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-10,8/10/15
+3EA3RFKFA7222074,44,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2015-08-10,8/10/15
+3EA3RFMFA7222080,44,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-10,8/13/15
+3EA3RFWFA7222095,44,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-10,8/13/15
+3EA3RG1FA7222102,44,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-10,8/27/15
+3EA3RG8FA7222107,44,11,719,C,Wiring issue found on the aircraft,Repaired the wire,2015-08-10,8/11/15
+3EA3RGBFA7222112,44,11,20,B,Wiring issue found on the aircraft,Repaired the wire,2015-08-10,8/27/15
+3EA3S7LFA7230065,44,11,0,0,Perform a wiring inspection,Completed the inspection,2015-08-18,8/18/15
+3EA3S7MFA7230065,44,11,0,0,Perform a wiring inspection,Completed the inspection,2015-08-18,8/18/15
+3EA3SC5FA7231126,44,11,W52,C,System or component worn or broken,Worked on and repaired component/system,2015-08-19,8/19/15
+3EA3SNDFA7237296,44,11,W13,B,System or component worn or broken,Removed and Replaced the system or component,2015-08-25,8/26/15
+3EA3SO6FA7237315,44,11,W13,B,System or component worn or broken,Removed and Replaced the system or component,2015-08-25,8/26/15
+3NT1II2FA3215354,44,11,70,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-02,8/18/16
+3NT1IL7FA3215361,44,11,20,C,Wiring issue found on the aircraft,Repaired the wire,2016-08-02,8/2/16
